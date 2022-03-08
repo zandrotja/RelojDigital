@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(63, 63, 207);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.contenedor{
+    background: rgb(218, 111, 50);
+    color: white;
+    font-weight: 900;
+    font-size: 30px;
+    margin-top: 25%;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0px 0px 20px black;
+}
+#hora{
+    text-align: center;
+}
+#fecha{
+    font-size: 15px;
+    text-align: center;
+}
